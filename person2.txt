@@ -1,4 +1,0 @@
-name : megha
-time : 10:02am
-person :3
-day :friday
